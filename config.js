@@ -9,8 +9,8 @@ const config = {
     user: "chimera_admin"
   },
   aws: {
-    accessKeyId: "AKIAY3BEJ88HBQ791337",
-    secretAccessKey: "aJ3sK9dG7lP5rQ2fE1bY8cM4tZ9vA6uI0xO3pL5q",
+    accessKeyId: "",
+    secretAccessKey: "",
     region: "us-east-1"
   }
 };
